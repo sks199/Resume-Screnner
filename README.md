@@ -15,4 +15,4 @@ To run the script2.py file create a folder for resumes named resume_dir and a fo
 I have also created a streamlit app to categorize the resume and show the predicted category. By running
   *streamlit run streamlit_app.py*
 
-you would directed to the local app in your browser.
+you would be directed to the local app in your browser.
